@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "text": "apple",
+      "category": "fruit",
+      "description": "boost imunity",
+      "oldPrice": "65",
+      "newPrice": "89",
+      "isAvailable": true,
+      "id": "fd44"
+    },
+    {
+      "text": "pineapple",
+      "category": "fruit",
+      "description": "tested by kavin",
+      "oldPrice": "34",
+      "newPrice": "87",
+      "isAvailable": true,
+      "id": "1460"
+    }
+  ]
+}
